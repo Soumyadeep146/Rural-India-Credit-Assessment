@@ -1,6 +1,6 @@
 # Rural-India-Credit-Assessment
 
-# Calculating-credit-worthiness-for-rural-India-
+
 
 # Goal: 
 
